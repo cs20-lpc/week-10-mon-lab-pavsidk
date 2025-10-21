@@ -1,0 +1,72 @@
+SeqSearch Iterative:
+Enter a key to search my dictionary (or -1 to stop): graph
+an awesome data structure!
+Number of key comparisons: 4
+Enter a key to search my dictionary (or -1 to stop): banana
+a fruit that many like, or a phone
+Number of key comparisons: 1
+Enter a key to search my dictionary (or -1 to stop): igloo
+a cool house
+Number of key comparisons: 6
+Enter a key to search my dictionary (or -1 to stop): zebra
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): apple
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): -1
+
+SeqSearch Recursive:
+Enter a key to search my dictionary (or -1 to stop): graph
+an awesome data structure!
+Number of key comparisons: 4
+Enter a key to search my dictionary (or -1 to stop): banana
+a fruit that many like, or a phone
+Number of key comparisons: 1
+Enter a key to search my dictionary (or -1 to stop): igloo
+a cool house
+Number of key comparisons: 6
+Enter a key to search my dictionary (or -1 to stop): zebra
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): apple
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): -1
+
+Binary Search Iterative:
+Enter a key to search my dictionary (or -1 to stop): graph
+an awesome data structure!
+Number of key comparisons: 1
+Enter a key to search my dictionary (or -1 to stop): banana
+a fruit that many like, or a phone
+Number of key comparisons: 5
+Enter a key to search my dictionary (or -1 to stop): igloo
+a cool house
+Number of key comparisons: 3
+Enter a key to search my dictionary (or -1 to stop): zebra
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): apple
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 6
+Enter a key to search my dictionary (or -1 to stop): -1
+
+
+Binary Search Recursive:
+Enter a key to search my dictionary (or -1 to stop): graph
+an awesome data structure!
+Number of key comparisons: 1
+Enter a key to search my dictionary (or -1 to stop): banana
+a fruit that many like, or a phone
+Number of key comparisons: 5
+Enter a key to search my dictionary (or -1 to stop): igloo
+a cool house
+Number of key comparisons: 3
+Enter a key to search my dictionary (or -1 to stop): zebra
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 8
+Enter a key to search my dictionary (or -1 to stop): apple
+find: error, unsuccessful search, target key not found
+Number of key comparisons: 6
+Enter a key to search my dictionary (or -1 to stop): -1
